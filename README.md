@@ -15,3 +15,7 @@ ruby note_list_server.rb
 ```bash
 telnet localhost 2345
 ```
+
+- Follow the onscreen instructions.
+
+- Multiple clients can be run at once. Start more terminals and connect!
